@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App2.Android", "App2\App2.A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App2.iOS", "App2\App2.iOS\App2.iOS.csproj", "{FC5BB3CE-2DFB-401D-AC3A-9BCCA2E01F5B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "classes", "classes", "{F88F7F70-8197-4AA5-9C4F-05C7752EABF4}"
+	ProjectSection(SolutionItems) = preProject
+		Matematica.cs = Matematica.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		App2\App2\App2.projitems*{5ad097dd-9add-40a8-8c23-14c912cb343c}*SharedItemsImports = 13
